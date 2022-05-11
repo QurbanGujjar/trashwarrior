@@ -1,0 +1,22 @@
+.block_navbr {
+    /* display: block; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* width: 180px; */
+    /* height: auto; */
+    padding: 5px;
+    /* position: absolute; */
+    /* float: left;  */
+    /* background-color: brown; */
+}
+
+.looking_for {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: 600;
+    color: white;
+}

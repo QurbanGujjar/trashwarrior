@@ -1,24 +1,32 @@
-import logo from './logo.svg';
+
 import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
+import MainPage from './Component1/MainPage';
+import NavBlock from './Component1/NavBlock';
+import TimeAndDate from './Component1/TimeAndDate';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+
+<div className="container">
+<Router>
+      <Routes>
+      <Route exact path='/' element={<div className='blockNavbar'><NavBlock/><MainPage/></div>} />
+      <Route exact path='/timing' element={<div className='blockNavbar'><NavBlock/><TimeAndDate/></div>} />
+  </Routes>
+  </Router>
+</div>
+
+
+
+
+
+
+
   );
 }
 

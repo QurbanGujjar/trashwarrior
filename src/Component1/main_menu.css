@@ -1,0 +1,174 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            background-color: #459F65;
+        }
+        
+        .container {
+            padding: 80px 0px;
+            background-color: #459F65;
+        }
+        
+        li,
+        a {
+            list-style: none;
+            text-decoration: none;
+        }
+        
+        .main_menu {
+            width: 100%;
+            height: auto;
+            margin: 0px;
+        }
+        
+        .main_menu ul {
+            display: flex;
+            flex-direction: row-reverse;
+            /* float:; */
+            gap: 1px;
+            justify-content: center;
+            /* background-color: black; */
+            /* gap: 0px;
+    text-align: center; */
+        }
+        
+        .main_menu ul li button {
+            height: 55px;
+            text-align: center;
+            font-size: 1rem;
+            font-family: Avenir, Nunito Sans, Open Sans, Helvetica, sans-serif;
+            font-weight: 600;
+            line-height: 1.5;
+            color: green;
+            border: none;
+            padding: 16px 24px;
+            margin-right: 2px;
+            border-radius: 4px 4px 0 0;
+        }
+        
+        .navbtnActive {
+            background-color: white;
+            /* color: black; */
+        }
+        
+        .menu_body {
+            height: 80vh;
+            background-color: white;
+            margin-top: 0px;
+            display: flex;
+            flex-direction: row;
+            gap: 10px;
+            /* align-items: center; */
+            justify-content: space-between;
+            margin: 0px 100px;
+        }
+        
+        .item {
+            width: 100%;
+            /* height: 160px; */
+            padding: 20px;
+            margin: 20px;
+        }
+        
+        .item p {
+            font-size: 1rem;
+            font-family: Avenir, Nunito Sans, Open Sans, Helvetica, sans-serif;
+            font-weight: 400;
+            line-height: 1.5;
+        }
+        
+        .item h2 {
+            font-size: 30px;
+            margin-top: 40px;
+        }
+        
+        .item input {
+            padding: 18.5px 14px;
+            font: inherit;
+            color: currentColor;
+            width: 100%;
+            border: 1px solid gray;
+            border-radius: 5px;
+            height: 1.1876em;
+            margin: 0;
+            display: block;
+            padding: 20px;
+            margin-top: 40px;
+            min-width: 0;
+            background: none;
+            box-sizing: content-box;
+            animation-name: mui-auto-fill-cancel;
+            letter-spacing: inherit;
+            animation-duration: 10ms;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        .item button {
+            padding: 18.5px 14px;
+            font: inherit;
+            color: currentColor;
+            width: 100%;
+            border: 1px solid gray;
+            border-radius: 5px;
+            height: 1.1876em;
+            margin: 0;
+            display: block;
+            padding: 15px;
+            min-width: 0;
+            background: none;
+            box-sizing: content-box;
+            animation-name: mui-auto-fill-cancel;
+            letter-spacing: inherit;
+            font-size: 1rem;
+            font-family: Avenir, Nunito Sans, Open Sans, Helvetica, sans-serif;
+            font-weight: 600;
+            line-height: 1.5;
+            color: green;
+            animation-duration: 10ms;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        @media screen and (max-width: 1100px) {
+            .item {
+                width: 80%;
+            }
+            .item input {
+                margin-top: 20px;
+            }
+        }
+        
+        @media screen and (max-width: 800px) {
+            .menu_body {
+                display: block;
+                margin-top: -18px;
+            }
+            body {
+                background-color: lightgreen;
+            }
+        }
+        
+        @media screen and (max-width: 520px) {
+            .main_menu ul li button {
+                padding: 16px 5px;
+                font-size: 12px;
+            }
+            .item {
+                /* width: 75%; */
+                padding: 10px;
+                margin: 10px;
+            }
+            .item input {
+                /* width: 75%; */
+                padding: 15px;
+                /* margin: 10px; */
+            }
+        }
+        
+        @media screen and (max-width: 400px) {
+            .container {
+                padding: 0px;
+            }
+        }
