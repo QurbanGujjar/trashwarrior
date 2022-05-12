@@ -9,7 +9,7 @@ const MainPage = () => {
   return (
     <div className=''>
       <div className='main_menu'>
-        <NavBar setService={setService} service={service}/>
+    <NavBar setService={setService} service={service}/>
        {service==="J Removel"&&<FirstForm rate={rate.JR}/> }
        {service==="C Removel"&&<FirstForm rate={rate.CR}/> }
        {service==="D Removel"&&<FirstForm rate={rate.DR}/> }

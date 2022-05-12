@@ -7,7 +7,7 @@ const NavBlock = () => {
     <div className='block_navbr'>
 <div className="looking_for">{<Link to="/">Loking For</Link>} </div>
 <div className="looking_for">{<Link to="/timing">Pickup time</Link>}</div>
-<div className="looking_for">{<Link to="/timing">Task Discription</Link>}</div>
+<div className="looking_for">{<Link to="/task_desc">Task Discription</Link>}</div>
 
 <div className="looking_for">{<Link to="/timing">Pickup time</Link>}</div>
 <div className="looking_for">{<Link to="/timing">Review Your Order</Link>}</div>
