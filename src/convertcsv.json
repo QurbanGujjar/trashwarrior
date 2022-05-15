@@ -1,0 +1,3586 @@
+[
+ {
+   "county": "San Diego",
+   "city": "Alpine",
+   "zip": 91901,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Alpine",
+   "zip": 91903,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Bonita",
+   "zip": 91902,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Bonita",
+   "zip": 91905,
+   "junk_removal": "$125.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$525.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Bonsall",
+   "zip": 91906,
+   "junk_removal": "$125.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$525.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Borrego Springs",
+   "zip": 91908,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Boulevard",
+   "zip": 91909,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Camp Pendleton",
+   "zip": 91910,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Camp Pendleton",
+   "zip": 91911,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Campo",
+   "zip": 91912,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Cardiff",
+   "zip": 91913,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Carlsbad",
+   "zip": 91914,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Carlsbad",
+   "zip": 91915,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Carlsbad",
+   "zip": 91916,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Carlsbad",
+   "zip": 91917,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91921,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91931,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91932,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91933,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91934,
+   "junk_removal": "$125.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$525.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91935,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91941,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Chula Vista",
+   "zip": 91942,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Coronado",
+   "zip": 91943,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Coronado",
+   "zip": 91944,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Del Mar",
+   "zip": 91945,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Descanso",
+   "zip": 91946,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Dulzura",
+   "zip": 91947,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "El Cajon",
+   "zip": 91948,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "El Cajon",
+   "zip": 91950,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "El Cajon",
+   "zip": 91951,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "El Cajon",
+   "zip": 91962,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Encinitas",
+   "zip": 91963,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Encinitas",
+   "zip": 91976,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 91977,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 91978,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 91979,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 91980,
+   "junk_removal": "$125.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$525.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 92003,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 92004,
+   "junk_removal": "$145.00",
+   "cardboard_removal": "$145.00",
+   "dump_trailer": "$545.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Escondido",
+   "zip": 92007,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Fallbrook",
+   "zip": 92008,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Fallbrook",
+   "zip": 92009,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Guatay",
+   "zip": 92013,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Imperial Beach",
+   "zip": 92014,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Imperial Beach",
+   "zip": 92018,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Jacumba",
+   "zip": 92019,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Jamul",
+   "zip": 92020,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Julian",
+   "zip": 92021,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Jolla",
+   "zip": 92022,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Jolla",
+   "zip": 92023,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Jolla",
+   "zip": 92024,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Jolla",
+   "zip": 92025,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Jolla",
+   "zip": 92026,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Mesa",
+   "zip": 92027,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Mesa",
+   "zip": 92028,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Mesa",
+   "zip": 92029,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "La Mesa",
+   "zip": 92030,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Lakeside",
+   "zip": 92033,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Lemon Grove",
+   "zip": 92036,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Lemon Grove",
+   "zip": 92037,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Lincoln Acres",
+   "zip": 92038,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Mount Laguna",
+   "zip": 92039,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "National City",
+   "zip": 92040,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "National City",
+   "zip": 92046,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Nestor",
+   "zip": 92049,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92051,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92052,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92054,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92054,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92055,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92055,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92056,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Oceanside",
+   "zip": 92057,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Pala",
+   "zip": 92058,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Pala",
+   "zip": 92059,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Palomar Mountain",
+   "zip": 92060,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Pauma Valley",
+   "zip": 92061,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Pine Valley",
+   "zip": 92061,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Potrero",
+   "zip": 92064,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Poway",
+   "zip": 92065,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Poway",
+   "zip": 92066,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Ramona",
+   "zip": 92066,
+   "junk_removal": "$125.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$525.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Ranchita",
+   "zip": 92067,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Rancho Santa Fe",
+   "zip": 92068,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Rancho Santa Fe",
+   "zip": 92069,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92070,
+   "junk_removal": "$95.00",
+   "cardboard_removal": "$95.00",
+   "dump_trailer": "$495.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92071,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92072,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92074,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92075,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92078,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92079,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92082,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92083,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92084,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92085,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92086,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92088,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92091,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92092,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92093,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92101,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92102,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92103,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92104,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92105,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92106,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92107,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92108,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92109,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92110,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92111,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92112,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92113,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92114,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92115,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92116,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92117,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92118,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92118,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92119,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92120,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92121,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92122,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92123,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92124,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92126,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92127,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92128,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92129,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92130,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92131,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92132,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92133,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92134,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92135,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92136,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92137,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92138,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92139,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92140,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92142,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92143,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92143,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92145,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92147,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92149,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92150,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92152,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92153,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92153,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92154,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92155,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92159,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92160,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92162,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92163,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92164,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92165,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92166,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92167,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92168,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92169,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92170,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Diego",
+   "zip": 92171,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Luis Rey",
+   "zip": 92172,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Marcos",
+   "zip": 92173,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Marcos",
+   "zip": 92173,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Marcos",
+   "zip": 92174,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Ysidro",
+   "zip": 92175,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "San Ysidro",
+   "zip": 92176,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Santa Ysabel",
+   "zip": 92177,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Santee",
+   "zip": 92178,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Santee",
+   "zip": 92178,
+   "junk_removal": "$125.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$525.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Solana Beach",
+   "zip": 92182,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Spring Valley",
+   "zip": 92186,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Spring Valley",
+   "zip": 92190,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Spring Valley",
+   "zip": 92191,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Spring Valley",
+   "zip": 92192,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Tecate",
+   "zip": 92193,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Valley Center",
+   "zip": 92194,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Vista",
+   "zip": 92195,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Vista",
+   "zip": 92196,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Vista",
+   "zip": 92197,
+   "junk_removal": "$75.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$475.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Warner Springs",
+   "zip": 92198,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "San Diego",
+   "city": "Warner Springs",
+   "zip": 92199,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$700.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Aliso Viejo",
+   "zip": 92801,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Aliso Viejo",
+   "zip": 92804,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92812,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92814,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92815,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92816,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92817,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92825,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92850,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92823,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 90620,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92899,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92831,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92832,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92833,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92834,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92835,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92843,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Anaheim",
+   "zip": 92844,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Atwood",
+   "zip": 92845,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Brea",
+   "zip": 92846,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Brea",
+   "zip": 92615,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Brea",
+   "zip": 92646,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Buena Park",
+   "zip": 92647,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Buena Park",
+   "zip": 92648,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Buena Park",
+   "zip": 92649,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Buena Park",
+   "zip": 92602,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Capistrano Beach",
+   "zip": 90631,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Corona Del Mar",
+   "zip": 90632,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Costa Mesa",
+   "zip": 92656,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Costa Mesa",
+   "zip": 92698,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Costa Mesa",
+   "zip": 92805,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Cypress",
+   "zip": 92806,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Dana Point",
+   "zip": 92807,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "East Irvine",
+   "zip": 92808,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "El Toro",
+   "zip": 92822,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Foothill Ranch",
+   "zip": 92809,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fountain Valley",
+   "zip": 90621,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fountain Valley",
+   "zip": 90622,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 90624,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 92624,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 92625,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 92626,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 92627,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 92628,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 90630,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Fullerton",
+   "zip": 92708,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92629,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92650,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92609,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92836,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92837,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92838,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Garden Grove",
+   "zip": 92840,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Huntington Beach",
+   "zip": 92605,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Huntington Beach",
+   "zip": 92610,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Huntington Beach",
+   "zip": 92604,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Huntington Beach",
+   "zip": 92606,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Huntington Beach",
+   "zip": 92612,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Huntington Beach",
+   "zip": 92802,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92614,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92616,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92803,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92618,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92619,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92620,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92623,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92709,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92697,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92710,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 90633,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92694,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92651,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Irvine",
+   "zip": 92652,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "La Habra",
+   "zip": 90623,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "La Habra",
+   "zip": 92728,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "La Habra",
+   "zip": 92637,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "La Palma",
+   "zip": 92841,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Ladera Ranch",
+   "zip": 92842,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Beach",
+   "zip": 92653,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Beach",
+   "zip": 92654,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Hills",
+   "zip": 92607,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Hills",
+   "zip": 92677,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Hills",
+   "zip": 92630,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Niguel",
+   "zip": 90720,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Laguna Niguel",
+   "zip": 90721,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Lake Forest",
+   "zip": 92655,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Los Alamitos",
+   "zip": 92690,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Los Alamitos",
+   "zip": 92691,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Midway City",
+   "zip": 92692,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Mission Viejo",
+   "zip": 92658,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Mission Viejo",
+   "zip": 92659,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Mission Viejo",
+   "zip": 92660,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Beach",
+   "zip": 92661,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Beach",
+   "zip": 92662,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Beach",
+   "zip": 92663,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Beach",
+   "zip": 92811,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Beach",
+   "zip": 92657,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Beach",
+   "zip": 92856,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Newport Coast",
+   "zip": 92857,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92859,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92862,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92863,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92864,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92865,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92866,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92867,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92868,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92869,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92870,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Orange",
+   "zip": 92871,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Placentia",
+   "zip": 92688,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Placentia",
+   "zip": 92672,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Rancho Santa Margarita",
+   "zip": 92673,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "San Clemente",
+   "zip": 92674,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "San Clemente",
+   "zip": 92675,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "San Clemente",
+   "zip": 92693,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "San Juan Capistrano",
+   "zip": 92701,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "San Juan Capistrano",
+   "zip": 92702,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92703,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92704,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92705,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92706,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92707,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92711,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92712,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92603,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92725,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92735,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 92799,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Santa Ana",
+   "zip": 90740,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Seal Beach",
+   "zip": 92676,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Silverado",
+   "zip": 90680,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Stanton",
+   "zip": 90742,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Sunset Beach",
+   "zip": 90743,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Surfside",
+   "zip": 92678,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Trabuco Canyon",
+   "zip": 92679,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Trabuco Canyon",
+   "zip": 92780,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Tustin",
+   "zip": 92781,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Tustin",
+   "zip": 92782,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Tustin",
+   "zip": 92861,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Villa Park",
+   "zip": 92683,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Westminster",
+   "zip": 92684,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Westminster",
+   "zip": 92685,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Westminster",
+   "zip": 92885,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Yorba Linda",
+   "zip": 92886,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Yorba Linda",
+   "zip": 92887,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Orange",
+   "city": "Yorba Linda",
+   "zip": 92821,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$300.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Aguanga",
+   "zip": 91752,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Anza",
+   "zip": 92201,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Banning",
+   "zip": 92201,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Beaumont",
+   "zip": 92201,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Blythe",
+   "zip": 92202,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Blythe",
+   "zip": 92203,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Cabazon",
+   "zip": 92210,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Cabazon",
+   "zip": 92210,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Calimesa",
+   "zip": 92211,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Canyon Lake",
+   "zip": 92220,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Cathedral City",
+   "zip": 92223,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Cathedral City",
+   "zip": 92223,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Cherry Valley",
+   "zip": 92225,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Chiriaco Smt",
+   "zip": 92225,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Chiriaco Summit",
+   "zip": 92226,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Coachella",
+   "zip": 92230,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92234,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92235,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92236,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92239,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92239,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92240,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Corona",
+   "zip": 92241,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Desert Center",
+   "zip": 92253,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Desert Hot Springs",
+   "zip": 92254,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Desert Hot Springs",
+   "zip": 92255,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Eagle Mountain",
+   "zip": 92258,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Gilman Hot Springs",
+   "zip": 92258,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Hemet",
+   "zip": 92260,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Hemet",
+   "zip": 92261,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Hemet",
+   "zip": 92262,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Hemet",
+   "zip": 92263,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Homeland",
+   "zip": 92264,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Idyllwild",
+   "zip": 92270,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Indian Wells",
+   "zip": 92274,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Indio",
+   "zip": 92276,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Indio",
+   "zip": 92282,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Indio",
+   "zip": 92282,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "La Quinta",
+   "zip": 92292,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Lake Elsinore",
+   "zip": 92320,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Lake Elsinore",
+   "zip": 92501,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Lake Elsinore",
+   "zip": 92502,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Lakeview",
+   "zip": 92503,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "March Air Force Base",
+   "zip": 92504,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "March Air Reserve Base",
+   "zip": 92505,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Mecca",
+   "zip": 92506,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Menifee",
+   "zip": 92507,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Mira Loma",
+   "zip": 92508,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92509,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92509,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92513,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92514,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92515,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92516,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Moreno Valley",
+   "zip": 92517,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Mountain Center",
+   "zip": 92518,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Murrieta",
+   "zip": 92518,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Murrieta",
+   "zip": 92518,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Murrieta",
+   "zip": 92519,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "No Palm Springs",
+   "zip": 92530,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Norco",
+   "zip": 92531,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "North Palm Springs",
+   "zip": 92532,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Nuevo",
+   "zip": 92536,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Desert",
+   "zip": 92539,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Desert",
+   "zip": 92543,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Desert",
+   "zip": 92544,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Desert",
+   "zip": 92545,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Desert",
+   "zip": 92546,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Springs",
+   "zip": 92548,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Springs",
+   "zip": 92549,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Springs",
+   "zip": 92551,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Palm Springs",
+   "zip": 92552,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Perris",
+   "zip": 92553,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Perris",
+   "zip": 92554,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Perris",
+   "zip": 92555,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Quail Valley",
+   "zip": 92556,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Rancho Mirage",
+   "zip": 92557,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Ripley",
+   "zip": 92561,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$450.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92562,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92563,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92564,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92567,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92567,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92570,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92571,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92572,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92581,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92582,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92583,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92583,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92584,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92584,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92585,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Riverside",
+   "zip": 92585,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Romoland",
+   "zip": 92586,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Rubidoux",
+   "zip": 92587,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "San Jacinto",
+   "zip": 92587,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "San Jacinto",
+   "zip": 92587,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "San Jacinto",
+   "zip": 92589,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Sun City",
+   "zip": 92590,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Sun City",
+   "zip": 92591,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Sun City",
+   "zip": 92592,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Sun City",
+   "zip": 92593,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$75.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Temecula",
+   "zip": 92595,
+   "junk_removal": "$150.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Temecula",
+   "zip": 92596,
+   "junk_removal": "$150.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$225.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Temecula",
+   "zip": 92860,
+   "junk_removal": "$150.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Temecula",
+   "zip": 92877,
+   "junk_removal": "$150.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Temecula",
+   "zip": 92878,
+   "junk_removal": "$150.00",
+   "cardboard_removal": "$150.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Thermal",
+   "zip": 92879,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Thousand Palms",
+   "zip": 92880,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "White Water",
+   "zip": 92881,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Wildomar",
+   "zip": 92882,
+   "junk_removal": "$300.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$375.00"
+ },
+ {
+   "county": "Riverside",
+   "city": "Winchester",
+   "zip": 92883,
+   "junk_removal": "$150.00",
+   "cardboard_removal": "$125.00",
+   "dump_trailer": "$375.00"
+ }
+]

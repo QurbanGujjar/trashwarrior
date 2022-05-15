@@ -7,6 +7,7 @@ import MainPage from './Component1/MainPage';
 import NavBlock from './Component1/NavBlock';
 import TimeAndDate from './Component1/TimeAndDate';
 import TaskDescription from './Component1/TaskDescription';
+import LastTest from './Component1/LastTest';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <Route exact path='/' element={<div className='blockNavbar'><NavBlock/><MainPage/></div>} />
       <Route exact path='/timing' element={<div className='blockNavbar'><NavBlock/><TimeAndDate/></div>} />
       <Route exact path='/task_desc' element={<div className='blockNavbar'><NavBlock/><TaskDescription/></div>} />
+      <Route exact path='/last_test' element={<div className='blockNavbar'><NavBlock/><LastTest/></div>} />
   </Routes>
   </Router>
 </div>
