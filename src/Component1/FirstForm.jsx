@@ -32,14 +32,14 @@ const extractAddress = (place) => {
     state: "",
     zip: "",
     country: "",
-    rowData:{},
+
     plain() {
       const city = this.city ? this.city + ", " : "";
       const zip = this.zip ? this.zip + ", " : "";
       const state = this.state ? this.state + ", " : "";
-      const rowData = this.rowData ? this.rowData + ", " : {};
 
-      return city + zip + state + this.country + this.rowData;
+
+      return city + zip + state + this.country;
     },
   };
 
@@ -62,15 +62,15 @@ const extractAddress = (place) => {
     if (types.includes("postal_code")) {
       // address.zip = value;
       let ZipCode =Number(value)
-      console.log(ZipCode)
-      data.map((row,index)=>{
-       if( row.zip==ZipCode){
-        // setServices(row)
-        address.rowData=row
-         return address.zip ="Yes we DElever"
-       }
+      // console.log(ZipCode)
+      // data.map((row,index)=>{
+      //  if( row.zip===ZipCode){
+      //    return address.zip ="Yes we DElever"
+      //   // return address.zip =row
+      //  }
 
-      })
+      // })
+      return address.zip=ZipCode
     }
 
     if (types.includes("country")) {
@@ -85,7 +85,7 @@ const extractAddress = (place) => {
 
 const FirstForm = ({rate}) => {
 
-  const [serviceArea ,setServiceArea]=useState('Check if we serve in your area')
+  const [serviceArea ,setServiceArea]=useState({county:'',	city:'',	zip:'',	junk_removal:'',	cardboard_removal:'',	dump_trailer:''})
 
   const searchInput = useRef(null);
   const [address, setAddress] = useState({});
@@ -107,6 +107,8 @@ const FirstForm = ({rate}) => {
   const onChangeAddress = (autocomplete) => {
     const place = autocomplete.getPlace();
     setAddress(extractAddress(place));
+    // console.log(place)
+    // serviceSolution()
   }
 
   // init autocomplete
@@ -116,7 +118,6 @@ const FirstForm = ({rate}) => {
     const autocomplete = new window.google.maps.places.Autocomplete(searchInput.current);
     autocomplete.setFields(["address_component", "geometry"]);
     autocomplete.addListener("place_changed", () => onChangeAddress(autocomplete));
-
   }
 
 
@@ -130,6 +131,7 @@ const FirstForm = ({rate}) => {
           const _address = extractAddress(place);
           setAddress(_address);
           searchInput.current.value = _address.plain();
+
         })
   }
 
@@ -140,6 +142,12 @@ const FirstForm = ({rate}) => {
         reverseGeocode(position.coords)
       })
     }
+  }
+  const serviceSolution=()=>{
+    // console.log("serviceSolution")
+    // setServices()
+    // console.log(address.zip)
+
   }
 
 
@@ -153,18 +161,32 @@ const FirstForm = ({rate}) => {
 
  useEffect(() => {
       initMapScript().then(() => initAutocomplete())
+      // console.log("Qurban")
     }, []);
+
+    useEffect(() => {
+      data.map((row,index)=>{
+        if( row.zip===address.zip){
+        setServices(row)
+
+        }
+
+       })
+
+// console.log(address.zip)
+    }, [address]);
   return (
     <div className='menu_body'>
 
           <div className='item'>
             <p>Service starts at</p>
-            <h2>${rate}.00</h2>
+            {/*  {console.log(services)} */}
+            <h2>${rate}.00  {services[4]   }</h2>
           </div>
           <div className='item'>
-            <p>{serviceArea}</p>
+
             <p>
-            Zip: <span>{address.zip==="Yes we DElever"?address.zip:"We cannot supply there"}</span>
+          {/* {serviceArea}<span>{ address.zip==="Yes we DElever"?address.zip:"We cannot supply there"}</span> */}
           </p>
 
             <input
