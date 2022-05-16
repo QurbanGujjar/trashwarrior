@@ -3,11 +3,9 @@ import {Link} from 'react-router-dom'
 
 import React, { useEffect, useRef, useState } from "react";
 import "../App.css";
-import { Search, GpsFixed } from "@material-ui/icons";
+// import { Search, GpsFixed } from "@material-ui/icons";
 import data from '../convertcsv.json'
-import { ownerDocument } from "@material-ui/core";
-
-// const apiKey = import.meta.env.example.VITE_APP_GMAP_API_KEY;
+// import { ownerDocument } from "@material-ui/core";
 const apiKey = "AIzaSyCF_b0avoAPa-h76ELIZcudKMzrvxhAbBM";
 const mapApiJs = "https://maps.googleapis.com/maps/api/js";
 const geocodeJson = "https://maps.googleapis.com/maps/api/geocode/json";
@@ -37,8 +35,6 @@ const extractAddress = (place) => {
       const city = this.city ? this.city + ", " : "";
       const zip = this.zip ? this.zip + ", " : "";
       const state = this.state ? this.state + ", " : "";
-
-
       return city + zip + state + this.country;
     },
   };
@@ -60,17 +56,18 @@ const extractAddress = (place) => {
     }
 
     if (types.includes("postal_code")) {
-      // address.zip = value;
+      address.zip = value;
       let ZipCode =Number(value)
       // console.log(ZipCode)
-      // data.map((row,index)=>{
-      //  if( row.zip===ZipCode){
-      //    return address.zip ="Yes we DElever"
-      //   // return address.zip =row
-      //  }
+      data.map((row,index)=>{
+       if(row.zip===ZipCode){
+        address.zip = index
+         return address.zip
+        // return address.zip =row
+       }
 
-      // })
-      return address.zip=ZipCode
+      })
+      // return address.zip
     }
 
     if (types.includes("country")) {
@@ -80,16 +77,22 @@ const extractAddress = (place) => {
 
   return address;
 };
-
-
-
 const FirstForm = ({rate}) => {
 
-  const [serviceArea ,setServiceArea]=useState({county:'',	city:'',	zip:'',	junk_removal:'',	cardboard_removal:'',	dump_trailer:''})
+  let [serviceArea, setServiceArea] = useState({
+    county: "",
+    city: "",
+    zip: "",
+    junk_removal:"$75.00",
+    cardboard_removal:"$125.00",
+    dump_trailer:"$225.00",
+  });
+  // const [serviceArea ,setServiceArea]=useState({})
 
   const searchInput = useRef(null);
   const [address, setAddress] = useState({});
-  const [services,setServices] =useState({})
+  // const [services,setServices] =useState({})
+
 
 
   // init gmap script
@@ -98,7 +101,6 @@ const FirstForm = ({rate}) => {
     if(window.google) {
       return Promise.resolve();
     }
-  //   const src = `${mapApiJs}?key=${apiKey}&libraries=places&v=weekly`;
     const src = `${mapApiJs}?key=${apiKey}&country=usa&libraries=places&v=weekly`;
     return loadAsyncScript(src);
   }
@@ -110,7 +112,6 @@ const FirstForm = ({rate}) => {
     // console.log(place)
     // serviceSolution()
   }
-
   // init autocomplete
   const initAutocomplete = () => {
     if (!searchInput.current) return;
@@ -119,8 +120,6 @@ const FirstForm = ({rate}) => {
     autocomplete.setFields(["address_component", "geometry"]);
     autocomplete.addListener("place_changed", () => onChangeAddress(autocomplete));
   }
-
-
   const reverseGeocode = ({ latitude: lat, longitude: lng}) => {
     const url = `${geocodeJson}?key=${apiKey}&latlng=${lat},${lng}`;
     searchInput.current.value = "Getting your location...";
@@ -131,11 +130,8 @@ const FirstForm = ({rate}) => {
           const _address = extractAddress(place);
           setAddress(_address);
           searchInput.current.value = _address.plain();
-
         })
   }
-
-
   const findMyLocation = () => {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(position => {
@@ -147,13 +143,7 @@ const FirstForm = ({rate}) => {
     // console.log("serviceSolution")
     // setServices()
     // console.log(address.zip)
-
   }
-
-
-
-
-
   // load map script after mounted
 
 
@@ -161,31 +151,29 @@ const FirstForm = ({rate}) => {
 
  useEffect(() => {
       initMapScript().then(() => initAutocomplete())
-      // console.log("Qurban")
+
     }, []);
 
-    useEffect(() => {
-      data.map((row,index)=>{
-        if( row.zip===address.zip){
-        setServices(row)
 
-        }
-
-       })
-
-// console.log(address.zip)
-    }, [address]);
+useEffect(() => {
+    console.log()
+    setServiceArea(data[address.zip])
+  }, [address.zip]);
   return (
     <div className='menu_body'>
 
           <div className='item'>
             <p>Service starts at</p>
+            <h2>  {serviceArea?.junk_removal ? serviceArea.junk_removal:rate} </h2>
+
             {/*  {console.log(services)} */}
-            <h2>${rate}.00  {services[4]   }</h2>
-          </div>
+            {/* <h2>  { serviceArea &&  rate==="75"?serviceArea.junk_removal:rate==='85'?serviceArea.cardboard_removal:rate==='135'?serviceArea.dump_trailer}  </h2> */}
+         {/* <h2>{rate}</h2> */}
+         </div>
           <div className='item'>
 
             <p>
+              {address.zip? "Yes we Deliever":"Not" }
           {/* {serviceArea}<span>{ address.zip==="Yes we DElever"?address.zip:"We cannot supply there"}</span> */}
           </p>
 
@@ -194,16 +182,14 @@ const FirstForm = ({rate}) => {
             type='text'
             placeholder='Search location....'
           />
+
           </div>
           <div className='item'>
           <Link to='/booking'> <button >Book Now</button></Link>
-
-            <br />
-            <Link to='/booking'>  <button>Book as Business</button></Link>
-
-
-
           </div>
+          {/* <div className='item'>
+         <p>  {serviceArea?.junk_removal} </p>
+          </div> */}
         </div>
   )
 }
